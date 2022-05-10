@@ -12,3 +12,6 @@ Save planet earth by:
 • go on climate strikes
 
 #### AND MUCH, MUCH MORE!
+
+
+## So, who's in?
