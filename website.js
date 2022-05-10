@@ -1,4 +1,4 @@
-openCity(event, 'home');
+document.getElementById('homeBtn').click();
 
 function openCity(evt, cityName) {
     var i, tabcontent, tablinks;
