@@ -6,7 +6,9 @@ Help save planet earth!
 Save planet earth by:
 
 • planting trees
+
 • beach clean-ups
+
 • go on climate strikes
 
-####AND MUCH, MUCH MORE!
+#### AND MUCH, MUCH MORE!
