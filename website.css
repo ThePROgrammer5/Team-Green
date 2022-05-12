@@ -39,8 +39,10 @@ body {font-family: Arial;}
 
 .member {
   text-align: center;
+  border: 3px solid black;
 }
 
 .mProfileImg {
   width: 100%;
+  border: nonedone;
 }
