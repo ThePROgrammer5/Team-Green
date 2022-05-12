@@ -3,8 +3,8 @@ body {font-family: Arial;}
 /* Style the tab */
 .tab {
   overflow: hidden;
-  border: 1px solid rgb(171, 226, 154);
-  background-color: #f1f1f1;
+  border: 1px solid rgb(163, 226, 144);
+  background-color: rgb(171, 226, 154);
 }
 
 /* Style the buttons inside the tab */
