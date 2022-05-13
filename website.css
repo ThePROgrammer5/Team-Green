@@ -1,5 +1,9 @@
 body {font-family: Arial;}
 
+* {
+  background-color: rgb(193, 252, 187);
+}
+
 /* Style the tab */
 .tab {
   overflow: hidden;
