@@ -43,6 +43,7 @@ body {font-family: Arial;}
   height: 50%;
   text-align: center;
   border: 3px solid black;
+  background-color: rgb(28, 104, 20);
 }
 
 .mProfileImg {
