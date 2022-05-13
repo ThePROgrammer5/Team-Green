@@ -38,6 +38,8 @@ body {font-family: Arial;}
 }
 
 .member {
+  width: 25%;
+  height: 50%;
   text-align: center;
   border: 3px solid black;
 }
