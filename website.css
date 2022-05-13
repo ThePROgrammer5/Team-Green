@@ -1,9 +1,5 @@
 body {font-family: Arial;}
 
-* {
-  background-color: rgb(193, 252, 187);
-}
-
 /* Style the tab */
 .tab {
   overflow: hidden;
@@ -35,9 +31,10 @@ body {font-family: Arial;}
 
 /* Style the tab content */
 .tabcontent {
+  background-color: rgb(193, 252, 187);
   display: none;
   padding: 6px 12px;
-  border: 1px solid rgb(173, 239, 172);
+  border: 1px solid rgb(84, 147, 83);
   border-top: none;
 }
 
