@@ -10,6 +10,6 @@ function addToKart(item, no) {
 
 function order() {
     var email = document.createElement("a");
-    email.href = "mailto=codingplusgaming@gmail.com&subject=Team Green Order&body=Order: " + kart;
+    email.href = "mailto&to=codingplusgaming@gmail.com";// + kart;
     email.click();
 }
