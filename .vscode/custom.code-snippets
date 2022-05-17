@@ -17,13 +17,17 @@
 	// }
 
 	"imperfectSeed": {
-		"scope": "javascript",
 		"prefix": "iS",
 		"body": "${imperfectSeed}$1",
-	}
+	},
 
-	/*"normalSeed": {
+	"normalSeed": {
 		"prefix": "nS",
 		"body": "${normalSeed}$1",
-	}*/
+	},
+
+	"perfectSeed": {
+		"prefix": "pS",
+		"body": "${perfectSeed}$1",
+	}
 }

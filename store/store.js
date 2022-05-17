@@ -1,7 +1,7 @@
-var order = {
+var kart = {
     imperfectSeed: 0,
-    nSeed: 0,
-    pSeed: 0,
+    normalSeed: 0,
+    perfectSeed: 0,
 };
 
 function addToKart(item, no) {
@@ -10,6 +10,6 @@ function addToKart(item, no) {
 
 function order() {
     var email = document.createElement("a");
-    email.href = `mailto=codingplusgaming@gmail.com&subject=Team Green Order&body=${order}`;
+    email.href = `mailto=codingplusgaming@gmail.com&subject=Team Green Order&body=${kart}`;
     email.click();
 }
