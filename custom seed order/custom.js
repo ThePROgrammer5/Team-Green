@@ -3,4 +3,3 @@ var order = {
     normalSeed: 0,
     perfectSeed: 0,
 };
-
