@@ -20,4 +20,9 @@
 		"prefix": "iS",
 		"body": "${imperfectSeed}$1",
 	}
+
+	"normalSeed": {
+		"prefix": "nS",
+		"body": "${normalSeed}$1",
+	}
 }
