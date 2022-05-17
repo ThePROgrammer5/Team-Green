@@ -1,5 +1,5 @@
 var order = {
-    imperfectSeed: 0,
-    normalSeed: 0,
-    perfectSeed: 0,
+    iSeed: 0,
+    nSeed: 0,
+    pSeed: 0,
 };
