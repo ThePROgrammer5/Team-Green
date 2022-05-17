@@ -21,8 +21,8 @@
 		"body": "${imperfectSeed}$1",
 	}
 
-	"normalSeed": {
+	/*"normalSeed": {
 		"prefix": "nS",
 		"body": "${normalSeed}$1",
-	}
+	}*/
 }
