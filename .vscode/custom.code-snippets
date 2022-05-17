@@ -17,6 +17,7 @@
 	// }
 
 	"imperfectSeed": {
+		"scope": "javascript",
 		"prefix": "iS",
 		"body": "${imperfectSeed}$1",
 	}
