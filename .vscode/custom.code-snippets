@@ -15,4 +15,9 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
+
+	"imperfectSeed": {
+		"prefix": "iS",
+		"body": "${imperfectSeed}$1",
+	}
 }
