@@ -4,17 +4,14 @@
     <link rel="styleSheet" href="store.css">
 </head>
 <body>
-    <div class="item" id="imperfect-seed">
+    <div class="item" id="imperfectSeed">
         <img src="jeans3.jpg" alt="Denim Jeans" style="width:100%">
         <h1>Imperfect Seeds</h1>
         <p class="price">$0.50</p>
         <p>might not look perfect, but they grow perfect.</p>
-        <label for="imperfectSeedDD">Amount:</label>
-        <input type="number" id="imperfectSeedDD">
-        <br>
         <small>seeds are never garentied to grow, Team Green is not responsible for anything tht has to do with the seeds</small>
-        <p><button onclick="addToKart(imperfectSeed, document.getElementById('imperfectSeedDD'))">Add to Cart</button></p>
+        <p><button onclick="addToKart('imperfectSeed')">Add to Cart</button></p>
     </div>
-    <button onclick="order">order</button>
+    <button onclick="order()">order</button>
 </body>
 </html>
