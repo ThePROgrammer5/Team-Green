@@ -9,7 +9,5 @@ function addToKart(item, no) {
 }
 
 function order() {
-    var email = document.createElement("a");
-    email.href = "mailto&to=codingplusgaming@gmail.com";// + kart;
-    email.click();
+    document.getElementById("orderL").setAttribute('href', "mailto&to=codingplusgaming@gmail.com");
 }
